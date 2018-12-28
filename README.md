@@ -12,11 +12,11 @@ In your command window type
 ```
 $ git clone https://github.com/omarelewa21/Movie_website
 ```
-either from a virtual machine or directly on your terminal type 
 Download newsdata.sql from this link 
 ``` 
 https://d17h27t6h515a5.cloudfront.net/topher/2016/August/57b5f748_newsdata/newsdata.zip 
-``` 
+```
+either from a virtual machine or directly on your terminal type 
 ``` 
 $ psql -d news -f newsdata.sql
 ```
