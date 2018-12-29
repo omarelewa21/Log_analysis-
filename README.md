@@ -58,8 +58,8 @@ SQL elements used are:
 
 ###### Functions used are:
 * ROUND(): Function used to get decimal values from an operation or number.
-concat(): Function used to adjust a text or string by adding parts to it. 
-cast(): function used to segregate the date from the timestamp (used in the group by for this code).
+* concat(): Function used to adjust a text or string by adding parts to it. 
+* cast(): function used to segregate the date from the timestamp (used in the group by for this code).
 
 
 
